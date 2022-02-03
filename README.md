@@ -11,6 +11,7 @@ npm run dev
 # or
 yarn dev
 ```
+![ScreenShot of Form](a.png)
 👉 [Link to demo](https://promodoro-clock.netlify.app/)
 
 
