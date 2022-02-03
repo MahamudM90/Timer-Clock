@@ -12,7 +12,7 @@ npm run dev
 yarn dev
 ```
 ![ScreenShot of Form](a.png)
-👉 [Link to demo](https://promodoro-clock.netlify.app/)
+�[Live Site](https://promodoro-clock.netlify.app/)
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the project.
