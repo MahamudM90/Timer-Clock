@@ -1,4 +1,4 @@
-# React Promodoro Clock
+# React Promodoro Clock ⏰
 
 This is a react Promodoro Clock for [FreeCodeCamp](https://www.freecodecamp.org/) challenge made using Next Js which is a React framwork by Vercel.
 
