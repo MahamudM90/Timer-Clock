@@ -12,7 +12,7 @@ npm run dev
 yarn dev
 ```
 
-##### HomePage
+##### Home Page
 
 ![ScreenShot of Form](a.png)
 
